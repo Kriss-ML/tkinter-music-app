@@ -1,0 +1,3 @@
+
+Cristian,Chacon Ramirez,12345678H,Sant Boi ,HONDURAS,Running,Anyma,ELECTRÓNICA
+Cristobal,Castillo,12345678Z,Barcelona,ESPAÑA,Gears Of War,Megadeth,METAL
